@@ -49,7 +49,7 @@ A high-performance **on-chain & off-chain arbitrage bot** for Solana-based **DEX
 1. **Clone the Repository**  
  ```sh
  git clone https://github.com/Capybara003/Solana-Trading-bot-DEXs.git
- cd solana-arbitrage-bot
+ cd Solana-Trading-bot-DEXs
  ```
 2. Install Dependencies
   ```sh
